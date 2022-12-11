@@ -4,7 +4,7 @@
   "description": "a socketio based app which can push bus locations to connected sockets",
   "dependencies": {
     "date-fns": "^2.9.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "log4js": "^6.4.0",
     "node-fetch": "^2.6.1",
     "socket.io": "^2.4.0"
